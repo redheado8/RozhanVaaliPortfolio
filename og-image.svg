@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8f6f1"/><stop offset="1" stop-color="#ebe8df"/></linearGradient><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#d9d5cb" stroke-width="1" opacity=".45"/></pattern></defs>
+<rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#grid)"/>
+<circle cx="1040" cy="100" r="210" fill="#c93243" opacity=".08"/><circle cx="1080" cy="90" r="130" fill="none" stroke="#c93243" stroke-width="2" opacity=".35"/>
+<rect x="76" y="76" width="8" height="478" rx="4" fill="#c93243"/>
+<text x="120" y="142" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="5" fill="#c93243" font-weight="700">ROZHAN VAALI</text>
+<text x="116" y="265" font-family="Georgia, 'Times New Roman', serif" font-size="76" fill="#171923">Words that work.</text>
+<text x="116" y="352" font-family="Georgia, 'Times New Roman', serif" font-size="76" fill="#171923">Ideas that <tspan fill="#c93243">move.</tspan></text>
+<path d="M120 405H420" stroke="#c93243" stroke-width="3"/>
+<text x="120" y="460" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#555660">English Language &amp; Content Specialist</text>
+<text x="120" y="500" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#777780">Professional correspondence · AI-powered digital projects</text>
+<text x="120" y="576" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2" fill="#777780">PORTFOLIO  /  SELECTED WORK  /  CONTACT</text>
+<rect x="1010" y="455" width="100" height="100" rx="18" fill="#c93243"/><text x="1060" y="523" text-anchor="middle" font-family="Georgia, serif" font-size="68" fill="#fff">R</text>
+</svg>
